@@ -48,7 +48,7 @@ fun MenorNUmeroScreen(){
         }
 
         Column {
-            Text(text = "NUMERO MENOR",
+            Text(text = "EJERCICIO #2",
                 textAlign = TextAlign.Center,
                 modifier = Modifier.fillMaxWidth(),
                 style = TextStyle(fontWeight = FontWeight.Bold, fontSize = 30.sp)

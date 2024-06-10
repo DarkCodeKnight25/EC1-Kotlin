@@ -26,7 +26,7 @@ fun JubilacionScreen() {
 
         Column {
             Text(
-                text = "CALCULAR JUBILACIÓN",
+                text = "EJERCICIO #1",
                 textAlign = TextAlign.Center,
                 modifier = Modifier.fillMaxWidth(),
                 style = TextStyle(fontWeight = FontWeight.Bold, fontSize = 30.sp)

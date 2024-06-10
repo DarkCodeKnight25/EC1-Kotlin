@@ -40,7 +40,7 @@ fun MatriculaAlumnoScreen(){
         }
 
         Column {
-            Text(text = "PROMEDIO DE NOTAS IDAT",
+            Text(text = "EJERCICIO #3",
                 textAlign = TextAlign.Center,
                 modifier = Modifier.fillMaxWidth(),
                 style = TextStyle(fontWeight = FontWeight.Bold, fontSize = 30.sp)
@@ -60,7 +60,7 @@ fun MatriculaAlumnoScreen(){
                 resultado = calcularMatricula(Materia_Curso.toInt())
             },
                 modifier = Modifier.fillMaxWidth()) {
-                Text(text = "CALCULAR")
+                Text(text = "EJECUTAR")
             }
             MySpace(espacio = 16)
             Text(text = resultado,

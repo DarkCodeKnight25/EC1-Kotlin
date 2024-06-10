@@ -36,7 +36,7 @@ fun CuadradoYMitadScreen(){
         }
 
         Column {
-            Text(text = "CUADRADO Y MITAD",
+            Text(text = "EJERCICO #4",
                 textAlign = TextAlign.Center,
                 modifier = Modifier.fillMaxWidth(),
                 style = TextStyle(fontWeight = FontWeight.Bold, fontSize = 30.sp)
@@ -47,7 +47,7 @@ fun CuadradoYMitadScreen(){
                 resultado = calcularCuadradoYMitad()
             },
                 modifier = Modifier.fillMaxWidth()) {
-                Text(text = "CALCULAR")
+                Text(text = "EJECUTAR")
             }
             MySpace(espacio = 16)
             Text(text = resultado,

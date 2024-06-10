@@ -28,7 +28,7 @@ fun MenuScreen(navController: NavController) {
     ) {
         Column {
             Text(
-                text = "SELECCIONE OPCIONES",
+                text = "EVALUACION CONTINUA #1",
                 textAlign = TextAlign.Center,
                 modifier = Modifier.fillMaxWidth(),
                 style = TextStyle(fontWeight = FontWeight.Bold, fontSize = 30.sp)
@@ -39,14 +39,14 @@ fun MenuScreen(navController: NavController) {
                     navController.navigate("jubilacion")
                 },
                 colors = ButtonDefaults.buttonColors(
-                    containerColor = Color(0xFF3F51B5),
+                    containerColor = Color(0xFFFFC107),
                     contentColor = Color.White
                 ),
                 modifier = Modifier
                     .fillMaxWidth()
                     .padding(horizontal = 16.dp) // Padding horizontal para el botón
             ) {
-                Text(text = "CALCULAR JUBILACION",
+                Text(text = "EJERCICIO #1",
                     style = TextStyle(
                         fontSize = 16.sp,
                         fontWeight = FontWeight.Normal
@@ -59,14 +59,14 @@ fun MenuScreen(navController: NavController) {
                     navController.navigate("NumeroMenor")
                 },
                 colors = ButtonDefaults.buttonColors(
-                    containerColor = Color(0xFF3F51B5),
+                    containerColor = Color(0xFFFFC107),
                     contentColor = Color.White
                 ),
                 modifier = Modifier
                     .fillMaxWidth()
                     .padding(horizontal = 16.dp) // Padding horizontal para el botón
             ) {
-                Text(text = "CALCULAR EL MENOR NUMERO",
+                Text(text = "EJERCICIO #2",
                     style = TextStyle(
                         fontSize = 16.sp,
                         fontWeight = FontWeight.Normal
@@ -79,14 +79,14 @@ fun MenuScreen(navController: NavController) {
                     navController.navigate("MatriculaAlumno")
                 },
                 colors = ButtonDefaults.buttonColors(
-                    containerColor = Color(0xFF3F51B5),
+                    containerColor = Color(0xFFFFC107),
                     contentColor = Color.White
                 ),
                 modifier = Modifier
                     .fillMaxWidth()
                     .padding(horizontal = 16.dp) // Padding horizontal para el botón
             ) {
-                Text(text = "MATRICULA DE ALUMNOS")
+                Text(text = "EJERCICIO #3")
             }
             MySpace(16)
             Button(
@@ -94,14 +94,14 @@ fun MenuScreen(navController: NavController) {
                     navController.navigate("CuadradoMitad")
                 },
                 colors = ButtonDefaults.buttonColors(
-                    containerColor = Color(0xFF3F51B5),
+                    containerColor = Color(0xFFFFC107),
                     contentColor = Color.White
                 ),
                 modifier = Modifier
                     .fillMaxWidth()
                     .padding(horizontal = 16.dp) // Padding horizontal para el botón
             ) {
-                Text(text = "CALCULAR")
+                Text(text = "EJERCICIO #4")
             }
         }
     }
