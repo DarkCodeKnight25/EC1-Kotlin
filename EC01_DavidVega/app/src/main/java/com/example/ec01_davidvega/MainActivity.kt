@@ -25,7 +25,7 @@ class MainActivity : ComponentActivity() {
                 composable("menu") { MenuScreen(navController) }
 
                 composable("jubilacion") { JubilacionScreen() }
-//                composable("NumeroMenor") { MenorNUmeroScreen() }
+                composable("NumeroMenor") { MenorNUmeroScreen() }
 //                composable("MatriculaAlumno") { MatriculaAlumnoScreen() }
 //                composable("CuadradoMitad") { CuadradoYMitadScreen() }
 

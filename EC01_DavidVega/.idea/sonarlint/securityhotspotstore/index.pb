@@ -9,3 +9,5 @@ m
 =app/src/main/java/com/example/ec01_davidvega/Desarrollo_01.kt,7\5\754cf806a673be2d53ecabba162d81fbcfdbd62d
 n
 >app/src/main/java/com/example/ec01_davidvega/ui/theme/Color.kt,b\c\bc077dead141b6418cee5d10895a6e78d2f74b7e
+m
+=app/src/main/java/com/example/ec01_davidvega/Desarrollo_02.kt,0\5\058aa57c54de1c9850a319a3c4ae6b0fe0016eed
