@@ -27,7 +27,7 @@ class MainActivity : ComponentActivity() {
                 composable("jubilacion") { JubilacionScreen() }
                 composable("NumeroMenor") { MenorNUmeroScreen() }
                 composable("MatriculaAlumno") { MatriculaAlumnoScreen() }
-//                composable("CuadradoMitad") { CuadradoYMitadScreen() }
+                composable("CuadradoMitad") { CuadradoYMitadScreen() }
 
 
                 // Agrega aquí las demás pantallas según sea necesario

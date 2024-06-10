@@ -17,3 +17,5 @@ n
 >app/src/main/java/com/example/ec01_davidvega/ui/theme/Theme.kt,d\6\d6c658a66ca8fdf2de300687d088346ec13178d9
 m
 =app/src/main/java/com/example/ec01_davidvega/ui/theme/Type.kt,c\7\c72a80a804387fcbad26a59aa526c609e2b41a2c
+m
+=app/src/main/java/com/example/ec01_davidvega/Desarrollo_04.kt,2\9\29607702b590e682ad692ad31a5dc8b86c44f4a6
