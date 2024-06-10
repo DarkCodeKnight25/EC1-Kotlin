@@ -11,3 +11,9 @@ n
 >app/src/main/java/com/example/ec01_davidvega/ui/theme/Color.kt,b\c\bc077dead141b6418cee5d10895a6e78d2f74b7e
 m
 =app/src/main/java/com/example/ec01_davidvega/Desarrollo_02.kt,0\5\058aa57c54de1c9850a319a3c4ae6b0fe0016eed
+m
+=app/src/main/java/com/example/ec01_davidvega/Desarrollo_03.kt,4\3\4395590d863af5b07ff7d98120836120b842b6d7
+n
+>app/src/main/java/com/example/ec01_davidvega/ui/theme/Theme.kt,d\6\d6c658a66ca8fdf2de300687d088346ec13178d9
+m
+=app/src/main/java/com/example/ec01_davidvega/ui/theme/Type.kt,c\7\c72a80a804387fcbad26a59aa526c609e2b41a2c
